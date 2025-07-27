@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scrpwn/static/css/main.263c5335.css",
+    "main.js": "/scrpwn/static/js/main.f546c4ce.js",
+    "index.html": "/scrpwn/index.html",
+    "main.263c5335.css.map": "/scrpwn/static/css/main.263c5335.css.map",
+    "main.f546c4ce.js.map": "/scrpwn/static/js/main.f546c4ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.263c5335.css",
+    "static/js/main.f546c4ce.js"
+  ]
+}
