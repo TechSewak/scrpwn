@@ -53,11 +53,11 @@ A modern, responsive security company website built with React, Firebase, and Ta
    - Add your Firebase configuration:
    ```env
    REACT_APP_FIREBASE_API_KEY=your_api_key_here
-   REACT_APP_FIREBASE_AUTH_DOMAIN=sln-security.firebaseapp.com
-   REACT_APP_FIREBASE_PROJECT_ID=sln-security
-   REACT_APP_FIREBASE_STORAGE_BUCKET=sln-security.appspot.com
-   REACT_APP_FIREBASE_MESSAGING_SENDER_ID=769578128111
-   REACT_APP_FIREBASE_APP_ID=1:769578128111:web:334c6412958408d344011
+   REACT_APP_FIREBASE_AUTH_DOMAIN=
+   REACT_APP_FIREBASE_PROJECT_ID=
+   REACT_APP_FIREBASE_STORAGE_BUCKET=
+   REACT_APP_FIREBASE_MESSAGING_SENDER_ID=
+   REACT_APP_FIREBASE_APP_ID=
    ```
 
 4. **Start the development server**
