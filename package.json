@@ -2,7 +2,7 @@
   "name": "sln-security",
   "version": "1.0.0",
   "description": "SLN Security - Professional security solutions in Delhi NCR",
-  "homepage": "https://techsewak.github.io/scrpwn",
+  "homepage": "https://techsewak.github.io/scrpwn/",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
